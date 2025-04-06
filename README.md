@@ -47,7 +47,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    width="60%"
+    width="50%"
     src="https://github-readme-stats.vercel.app/api?username=jose-antonio89&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
@@ -55,7 +55,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      width="40%"
+      width="42%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-antonio89&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
