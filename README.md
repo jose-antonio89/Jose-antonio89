@@ -8,7 +8,7 @@
 <p>
   Oi, meu nome é José Antônio
 
-  - 🌱 Estou cursando Desenvolvimento de Software na FATEC <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Estou cursando Desenvolvimento de Software na FATEC <img align="center" alt="html5" src="https://img.shields.io/badge/Fatec-red" />
 
   <!-- 🔭 Adicionar algo que estou estudando em especifico futuramente -->
 </p>
@@ -54,7 +54,7 @@
   <div style="flex-basis: 48%;">
     <h3>Ferramentas</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
   </div>
   
   <!-- Skills: Libraries Adicionar futuramente, exemplo abaixo 
