@@ -6,9 +6,8 @@
 
 <!-- Apresentação -->
 <p>
-  Oi, meu nome é José Antônio
 
-  - 🌱 Estou cursando Desenvolvimento de Software na FATEC <img align="center" alt="html5" src="https://img.shields.io/badge/Fatec-red" />
+  - 🌱 Estou cursando Desenvolvimento de Software na FATEC
 
   <!-- 🔭 Adicionar algo que estou estudando em especifico futuramente -->
 </p>
@@ -25,12 +24,13 @@
 -->
 <!-- Links -->
 <!--[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)-->
+ - 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jose_antonioyzf/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-antônio-b05a1b268/)
 
 <!-- GithubStats -->
 ![Jose-antonio89 GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-antonio89&show_icons=true&theme=gotham)
-
+![Jose-antonio89 GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jose-antonio89&repo=jose-antonio89.github.io&theme=buefy)
 <!-- Portfolio 
 ## Portfolio: Adicionarei futuramente, exemplo abaixo
 - [Onde armazeno minhas aulas na fatec](https://github.com/jose-antoni89/fatec)
@@ -63,7 +63,8 @@
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   </div>-->
 
-  <!-- Referencias e sites que utilizei para criar o meu read.me 
+  <!-- Referencias e sites que utilizei para criar o meu read.me
+      https://github.com/anuraghazra/anuraghazra
       https://github.com/VariableBee/VariableBee/blob/Main/README.md?plain=1
       https://shields.io/badges
       https://devicon.dev
