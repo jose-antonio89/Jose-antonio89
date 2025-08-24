@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/josé-antônio-b05a1b268/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/jose_antonioyzf/">
+ <!--<a href="https://www.instagram.com/jose_antonioyzf/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  -->
   <a href="mailto:felix89764@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -31,17 +32,17 @@
 
 ### Linguagens e Frameworks
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
 </div>
 
 ### Ferramentas e Plataformas
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 </div>
 
 ## 📈 Minhas Estatísticas no GitHub
@@ -73,15 +74,17 @@
 
 ---
 -->
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jose-antonio89&label=Profile%20views&color=0e75b6&style=flat" alt="jose-antonio89" /> 
 </p>
 
-  <!-- Referencias e sites que utilizei para criar o meu read.me
-      https://github.com/anuraghazra/anuraghazra
-      https://github.com/VariableBee/VariableBee/blob/Main/README.md?plain=1
-      https://shields.io/badges
-      https://devicon.dev
+  <!--
+  Referencias e sites que utilizei para criar o meu read.me
+  https://github.com/anuraghazra/anuraghazra
+  https://github.com/VariableBee/VariableBee/blob/Main/README.md?plain=1
+  https://shields.io/badges
+  https://devicon.dev
   -->
 
 
