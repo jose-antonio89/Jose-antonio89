@@ -22,8 +22,8 @@
 ## � Sobre Mim
 
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na [FATEC Jaú](https://fatecjahu.edu.br)
-- 🌱 Atualmentenaprendendo **C#**
-<!--- � Objetivo: Me tornar um desenvolvedor Full Stack
+- 🌱 Atualmente aprendendo **C#**
+<!--- � Objetivo: Me tornar um desenvolvedor BackEnd
 - ⚡ Curiosidade: 
 -->
 ## 🛠️ Tecnologias e Ferramentas
