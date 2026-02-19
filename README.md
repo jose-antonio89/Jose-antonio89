@@ -5,12 +5,11 @@
   <a href="https://www.linkedin.com/in/josé-antônio-b05a1b268/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
- <!--<a href="https://www.instagram.com/jose_antonioyzf/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  -->
   <a href="mailto:felix89764@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/jose_antonioyzf/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
@@ -23,8 +22,7 @@
 ## � Sobre Mim
 
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na [FATEC Jaú](https://fatecjahu.edu.br)
-- 🌱 Atualmente aprendendo **JavaScript**
-- 🏡 Natural de Jaú/SP | Nascido em 2005
+- 🌱 Atualmentenaprendendo **C#**
 <!--- � Objetivo: Me tornar um desenvolvedor Full Stack
 - ⚡ Curiosidade: 
 -->
@@ -34,7 +32,11 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" 
+  alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </div>
 
 ### Ferramentas e Plataformas
@@ -45,8 +47,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </div>
 
+
 ## 📈 Minhas Estatísticas no GitHub
 
+<div align="center">
+
+  <!-- Detalhes do perfil -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-antonio89&theme=dark" 
+    alt="Resumo do GitHub"
+  />
+
+
+<!--
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-antonio89&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-antonio89&layout=compact&langs_count=7&theme=dark"/>
@@ -56,13 +69,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose-antonio89&theme=dark" alt="jose-antonio89" />
 </p>
 
+---
+-->
+
 <!--
 ## 🔭 Próximos Passos
 
-- [ ] Aprender React.js
+- [ ] Aprender Java
 - [ ] Desenvolver meu portfólio pessoal
 - [ ] Contribuir para projetos open source
-- [ ] Conseguir meu primeiro estágio na área
+// - [ ] Conseguir meu primeiro estágio na área
 
 ## 🏆 Conquistas
 
