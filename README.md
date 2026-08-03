@@ -16,7 +16,6 @@
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na [FATEC Jaú](https://fatecjahu.edu.br)
-- 🌱 Atualmente aprendendo **C#**
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -28,13 +27,8 @@
 
 ## 📈 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose-antonio89&theme=dark" 
-    alt="Resumo do GitHub"
-  />
-</div>
-
+ ![GitHub Stats](https://ghstats.dev/api/card?username=jose-antonio89)
+ 
 <br>
 
 <p align="center"> 
