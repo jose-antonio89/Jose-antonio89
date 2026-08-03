@@ -14,23 +14,33 @@
 </p>
 
 <div align="center">
+  
 ## 👨‍💻 Sobre Mim
+  
 </div>
-
-- 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na [FATEC Jaú](https://fatecjahu.edu.br)
 
 <div align="center">
-## 🛠️ Tecnologias e Ferramentas
+  
+🎓 Cursando **Desenvolvimento de Software Multiplataforma** na [FATEC Jaú](https://fatecjahu.edu.br)
+
 </div>
 
-<p align="left">
+<div align="center">
+  
+## 🛠️ Tecnologias e Ferramentas
+
+</div>
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,dotnet,html,css,bootstrap,js,mongodb,mysql,git,github,figma,vscode,visualstudio" alt="Minhas Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,dotnet,bootstrap,mongodb,mysql,git,github,figma,vscode" alt="Minhas Skills" />
   </a>
 </p>
 
 <div align="center">
+  
 ## 📈 Minhas Estatísticas no GitHub
+
 </div>
 
 <div align="center">
