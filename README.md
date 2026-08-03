@@ -13,11 +13,15 @@
   </a>
 </p>
 
+<div align="center">
 ## 👨‍💻 Sobre Mim
+</div>
 
 - 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na [FATEC Jaú](https://fatecjahu.edu.br)
 
+<div align="center">
 ## 🛠️ Tecnologias e Ferramentas
+</div>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,14 +29,15 @@
   </a>
 </p>
 
+<div align="center">
 ## 📈 Minhas Estatísticas no GitHub
-
+</div>
 
 <div align="center">
   
  ![GitHub Stats](https://ghstats.dev/api/card?username=jose-antonio89)
 
- </div>
+</div>
  
 <br>
 
