@@ -27,7 +27,12 @@
 
 ## 📈 Minhas Estatísticas no GitHub
 
+
+<p align="center">
+  
  ![GitHub Stats](https://ghstats.dev/api/card?username=jose-antonio89)
+
+ </p>
  
 <br>
 
